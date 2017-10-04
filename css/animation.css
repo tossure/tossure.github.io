@@ -1,0 +1,211 @@
+/*define animations*/
+
+@keyframes title {
+    0% {
+        content: "H"
+    }
+    1.5% {
+        content: "He"
+    }
+    3% {
+        content: "Hel"
+    }
+    4.5% {
+        content: "Hell"
+    }
+    6% {
+        content: "Hello"
+    }
+    7.5% {
+        content: "Hello "
+    }
+    9% {
+        content: "Hello W"
+    }
+    10.5% {
+        content: "Hello Wo"
+    }
+    12% {
+        content: "Hello Wor"
+    }
+    13.5% {
+        content: "Hello Worl"
+    }
+    15% {
+        content: "Hello World"
+    }
+    18% {
+        content: "Hello Worl"
+    }
+    19.5% {
+        content: "Hello Wor"
+    }
+    21% {
+        content: "Hello Wo"
+    }
+    22.5% {
+        content: "Hello W"
+    }
+    24% {
+        content: "Hello "
+    }
+    25.5% {
+        content: "Hello"
+    }
+    27% {
+        content: "Hell"
+    }
+    28.5% {
+        content: "Hel"
+    }
+    30% {
+        content: "He"
+    }
+    31.5% {
+        content: "H"
+    }
+    33% {
+        content: " "
+    }
+    34.5% {
+        content: "n"
+    }
+    36% {
+        content: "ni"
+    }
+    37.5% {
+        content: "你"
+    }
+    39% {
+        content: "你h"
+    }
+    40.5% {
+        content: "你ha"
+    }
+    42% {
+        content: "你hao"
+    }
+    43.5% {
+        content: "你好"
+    }
+    45% {
+        content: "你好 "
+    }
+    46.5% {
+        content: "你好 s"
+    }
+    48% {
+        content: "你好 sh"
+    }
+    49.5% {
+        content: "你好 shi"
+    }
+    51% {
+        content: "你好 世"
+    }
+    52.5% {
+        content: "你好 世j"
+    }
+    54% {
+        content: "你好 世ji"
+    }
+    55.5% {
+        content: "你好 世jie"
+    }
+    57% {
+        content: "你好 世界"
+    }
+    60% {
+        content: "你好 世"
+    }
+    61.5% {
+        content: "你好 "
+    }
+    63% {
+        content: "你好"
+    }
+    64.5% {
+        content: "你"
+    }
+    66% {
+        content: " "
+    }
+    67.5% {
+        content: "こ"
+    }
+    69% {
+        content: "こん"
+    }
+    70.5% {
+        content: "こんに"
+    }
+    72% {
+        content: "こんにち"
+    }
+    73.5% {
+        content: "こんにちは"
+    }
+    75% {
+        content: "こんにちはせ"
+    }
+    76.5% {
+        content: "こんにちは世"
+    }
+    78% {
+        content: "こんにちは世か"
+    }
+    79.5% {
+        content: "こんにちは世かい"
+    }
+    81% {
+        content: "こんにちは世界"
+    }
+    86% {
+        content: "こんにちは世"
+    }
+    87.5% {
+        content: "こんにちは"
+    }
+    89% {
+        content: "こんにち"
+    }
+    91.5% {
+        content: "こんに"
+    }
+    93% {
+        content: "こん"
+    }
+    94.5% {
+        content: "こ"
+    }
+    96% {
+        content: " "
+    }
+}
+
+@keyframes profile {
+    0% {
+        content: "P"
+    }
+    12.5% {
+        content: "Pr"
+    }
+    25% {
+        content: "Pro"
+    }
+    37.5% {
+        content: "Prof"
+    }
+    50% {
+        content: "Profi"
+    }
+    62.5% {
+        content: "Profil"
+    }
+    75% {
+        content: "Profile"
+    }
+    87.5% {
+        content: " "
+    }
+}
