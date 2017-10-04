@@ -181,31 +181,3 @@
     96% {
         content: " "
     }
-}
-
-@keyframes profile {
-    0% {
-        content: "P"
-    }
-    12.5% {
-        content: "Pr"
-    }
-    25% {
-        content: "Pro"
-    }
-    37.5% {
-        content: "Prof"
-    }
-    50% {
-        content: "Profi"
-    }
-    62.5% {
-        content: "Profil"
-    }
-    75% {
-        content: "Profile"
-    }
-    87.5% {
-        content: " "
-    }
-}
